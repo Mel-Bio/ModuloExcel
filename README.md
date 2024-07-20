@@ -12,3 +12,6 @@ Evidenciar el avance en el curso
 2. joho
    -djfsdjf
 ![hobbiton](https://github.com/user-attachments/assets/134f99e5-ed80-4dcf-8bd9-38f3a15dc3c0)
+
+### Código utilizado
+``` /../../../../github/docs/blob/main/assets/images/electrocat.png ```
